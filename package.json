@@ -1,0 +1,23 @@
+{
+  "name": "@tripouille/tt-package-demo",
+  "version": "1.0.0",
+  "description": "A demo package for Total TypeScript",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "homepage": "https://github.com/tripouille/tt-package-demo",
+  "bugs": {
+    "url": "https://github.com/tripouille/tt-package-demo/issues"
+  },
+  "author": "Jean-Michel Gambard <contact@jgambard.me> (https://jgambard.me)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripouille/tt-package-demo.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "license": "MIT"
+}
